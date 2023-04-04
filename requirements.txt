@@ -1,0 +1,7 @@
+uvicorn==0.21.1
+pydantic==1.10.7
+numpy==1.24.2
+scikit-learn==1.2.2
+nltk==3.8.1
+pymorphy3==1.2.0
+fastapi==0.95.0
